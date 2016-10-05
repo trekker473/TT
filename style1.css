@@ -1,0 +1,121 @@
+body {
+	background-color: #ccddee;
+	font-family: "Veranda", sans-serif;
+}
+
+div.login {
+	position: absolute;
+	z-index:-11;
+	top: 100px;
+	width: 400px;
+	left: 0;
+	right: 0;
+	border: 0;
+	margin: auto;
+	background-color: #ddeeff;
+	padding: 20px;
+	box-shadow: 3px 3px 10px #aaaaaa;
+	border-radius: 10px;
+}
+
+#success {
+	
+	position: absolute;
+	top: 325px;
+	width: 500px;
+	height: 210px;
+	left: 0;
+	right: 0;
+	border: 0;
+	margin: auto;
+	padding:20px;
+	background-color: #eeeeff;
+	box-shadow: 3px 3px 10px #aaaaaa;
+	border-radius: 10px;
+
+}
+
+top: 100px;
+	width: 400px;
+
+h1.title {
+	text-align: center;
+	font-family: "Veranda", sans-serif;
+}
+
+.formfield{
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing:border-box;
+	width: 300px;
+	padding-left: 30px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background-color: #fafafa;
+	border: 1px;
+	border-color: #999999;
+	border-style: solid;
+	border-radius: 5px;
+
+}
+
+.submit{
+	width: 300px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background-color: #8888bb;
+	border: 1px;
+	border-color: #666688;
+	border-style: solid;
+	border-radius: 5px;
+	color: #fafafa;
+	font-weight: bold;
+	
+}
+
+
+#password {
+
+	background: url(images/lock.png) left no-repeat;
+	background-color: #fafafa;
+	
+}
+
+
+#user{
+	background: url(images/user.png) left no-repeat;
+	background-color: #fafafa;
+}
+
+input{
+	margin-bottom: 15px;
+}
+
+#warning{
+	font-style: italic;
+	color: red;
+
+}
+
+#createanother{
+	width:200px;
+	margin-bottom:10px;
+}
+
+#backtologin{
+	width:200px;
+	margin-bottom:5px;
+}
+
+
+
+
+	
+
+	box-shadow: 0px 0px 4px 0px #48A521;
+	outline-color: #48A521;
+	outline-offset: -2px;
+	outline-style: auto;
+	outline-width: 5px;
+
